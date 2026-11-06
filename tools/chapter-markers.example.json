@@ -1,0 +1,13 @@
+{
+  "items": {
+    "2026-06-1": [
+      {"title": "长对话 1", "questions": "Q1–4", "startMs": 0, "endMs": 214000},
+      {"title": "长对话 2", "questions": "Q5–8", "startMs": 214000, "endMs": 428000},
+      {"title": "听力篇章 1", "questions": "Q9–11", "startMs": 428000, "endMs": 628000},
+      {"title": "听力篇章 2", "questions": "Q12–15", "startMs": 628000, "endMs": 854000},
+      {"title": "讲座 / 讲话 1", "questions": "Q16–18", "startMs": 854000, "endMs": 1070000},
+      {"title": "讲座 / 讲话 2", "questions": "Q19–21", "startMs": 1070000, "endMs": 1300000},
+      {"title": "讲座 / 讲话 3", "questions": "Q22–25", "startMs": 1300000, "endMs": 1600000}
+    ]
+  }
+}

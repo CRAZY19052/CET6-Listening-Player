@@ -1,0 +1,1433 @@
+[
+  {
+    "id": "2026-06-2",
+    "year": 2026,
+    "examYm": "2026-06",
+    "setNo": 2,
+    "title": "2026 年 6 月六级听力 · 第 2 套",
+    "fileName": "2026-06_set2.m4a",
+    "durationMs": 1587409,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 223300
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 223300,
+        "endMs": 450470
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 450470,
+        "endMs": 626440
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 626440,
+        "endMs": 862710
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 862710,
+        "endMs": 1089510
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1089510,
+        "endMs": 1337550
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1337550,
+        "endMs": 1587409
+      }
+    ]
+  },
+  {
+    "id": "2026-06-1",
+    "year": 2026,
+    "examYm": "2026-06",
+    "setNo": 1,
+    "title": "2026 年 6 月六级听力 · 第 1 套",
+    "fileName": "2026-06_set1.m4a",
+    "durationMs": 1495806,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 217720
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 217720,
+        "endMs": 435720
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 435720,
+        "endMs": 611320
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 611320,
+        "endMs": 823060
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 823060,
+        "endMs": 1066180
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1066180,
+        "endMs": 1267950
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1267950,
+        "endMs": 1495806
+      }
+    ]
+  },
+  {
+    "id": "2025-12-2",
+    "year": 2025,
+    "examYm": "2025-12",
+    "setNo": 2,
+    "title": "2025 年 12 月六级听力 · 第 2 套",
+    "fileName": "2025-12_set2.m4a",
+    "durationMs": 1554413,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 217910
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 217910,
+        "endMs": 459850
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 459850,
+        "endMs": 641240
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 641240,
+        "endMs": 859360
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 859360,
+        "endMs": 1088780
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1088780,
+        "endMs": 1324690
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1324690,
+        "endMs": 1554413
+      }
+    ]
+  },
+  {
+    "id": "2025-12-1",
+    "year": 2025,
+    "examYm": "2025-12",
+    "setNo": 1,
+    "title": "2025 年 12 月六级听力 · 第 1 套",
+    "fileName": "2025-12_set1.m4a",
+    "durationMs": 1543245,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 221760
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 221760,
+        "endMs": 450520
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 450520,
+        "endMs": 598630
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 598630,
+        "endMs": 833768
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 833768,
+        "endMs": 1040540
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1040540,
+        "endMs": 1283070
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1283070,
+        "endMs": 1543245
+      }
+    ]
+  },
+  {
+    "id": "2025-06-2",
+    "year": 2025,
+    "examYm": "2025-06",
+    "setNo": 2,
+    "title": "2025 年 6 月六级听力 · 第 2 套",
+    "fileName": "2025-06_set2.m4a",
+    "durationMs": 1567718,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 223650
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 223650,
+        "endMs": 463970
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 463970,
+        "endMs": 652620
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 652620,
+        "endMs": 872680
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 872680,
+        "endMs": 1084990
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1084990,
+        "endMs": 1318060
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1318060,
+        "endMs": 1567718
+      }
+    ]
+  },
+  {
+    "id": "2025-06-1",
+    "year": 2025,
+    "examYm": "2025-06",
+    "setNo": 1,
+    "title": "2025 年 6 月六级听力 · 第 1 套",
+    "fileName": "2025-06_set1.m4a",
+    "durationMs": 1558059,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 224650
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 224650,
+        "endMs": 450270
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 450270,
+        "endMs": 615770
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 615770,
+        "endMs": 847110
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 847110,
+        "endMs": 1090660
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1090660,
+        "endMs": 1309350
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1309350,
+        "endMs": 1558059
+      }
+    ]
+  },
+  {
+    "id": "2024-12-2",
+    "year": 2024,
+    "examYm": "2024-12",
+    "setNo": 2,
+    "title": "2024 年 12 月六级听力 · 第 2 套",
+    "fileName": "2024-12_set2.m4a",
+    "durationMs": 1639654,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 216560
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 216560,
+        "endMs": 456350
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 456350,
+        "endMs": 655910
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 655910,
+        "endMs": 894770
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 894770,
+        "endMs": 1133180
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1133180,
+        "endMs": 1379890
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1379890,
+        "endMs": 1639654
+      }
+    ]
+  },
+  {
+    "id": "2024-12-1",
+    "year": 2024,
+    "examYm": "2024-12",
+    "setNo": 1,
+    "title": "2024 年 12 月六级听力 · 第 1 套",
+    "fileName": "2024-12_set1.m4a",
+    "durationMs": 1664848,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 248780
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 248780,
+        "endMs": 474883
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 474883,
+        "endMs": 641570
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 641570,
+        "endMs": 881790
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 881790,
+        "endMs": 1142760
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1142760,
+        "endMs": 1365600
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1365600,
+        "endMs": 1664848
+      }
+    ]
+  },
+  {
+    "id": "2024-06-2",
+    "year": 2024,
+    "examYm": "2024-06",
+    "setNo": 2,
+    "title": "2024 年 6 月六级听力 · 第 2 套",
+    "fileName": "2024-06_set2.m4a",
+    "durationMs": 1548516,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 211590
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 211590,
+        "endMs": 458040
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 458040,
+        "endMs": 628780
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 628780,
+        "endMs": 837450
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 837450,
+        "endMs": 1064390
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1064390,
+        "endMs": 1278820
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1278820,
+        "endMs": 1548516
+      }
+    ]
+  },
+  {
+    "id": "2024-06-1",
+    "year": 2024,
+    "examYm": "2024-06",
+    "setNo": 1,
+    "title": "2024 年 6 月六级听力 · 第 1 套",
+    "fileName": "2024-06_set1.m4a",
+    "durationMs": 1619453,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 222430
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 222430,
+        "endMs": 457330
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 457330,
+        "endMs": 653200
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 653200,
+        "endMs": 880340
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 880340,
+        "endMs": 1102860
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1102860,
+        "endMs": 1343740
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1343740,
+        "endMs": 1619453
+      }
+    ]
+  },
+  {
+    "id": "2023-12-2",
+    "year": 2023,
+    "examYm": "2023-12",
+    "setNo": 2,
+    "title": "2023 年 12 月六级听力 · 第 2 套",
+    "fileName": "2023-12_set2.m4a",
+    "durationMs": 1564189,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 230960
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 230960,
+        "endMs": 439290
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 439290,
+        "endMs": 605560
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 605560,
+        "endMs": 839530
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 839530,
+        "endMs": 1067720
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1067720,
+        "endMs": 1298420
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1298420,
+        "endMs": 1564189
+      }
+    ]
+  },
+  {
+    "id": "2023-12-1",
+    "year": 2023,
+    "examYm": "2023-12",
+    "setNo": 1,
+    "title": "2023 年 12 月六级听力 · 第 1 套",
+    "fileName": "2023-12_set1.m4a",
+    "durationMs": 1564839,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 227460
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 227460,
+        "endMs": 455480
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 455480,
+        "endMs": 631230
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 631230,
+        "endMs": 853510
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 853510,
+        "endMs": 1093170
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1093170,
+        "endMs": 1316760
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1316760,
+        "endMs": 1564839
+      }
+    ]
+  },
+  {
+    "id": "2023-06-2",
+    "year": 2023,
+    "examYm": "2023-06",
+    "setNo": 2,
+    "title": "2023 年 6 月六级听力 · 第 2 套",
+    "fileName": "2023-06_set2.m4a",
+    "durationMs": 1653145,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 231910
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 231910,
+        "endMs": 454360
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 454360,
+        "endMs": 632810
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 632810,
+        "endMs": 871300
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 871300,
+        "endMs": 1137820
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1137820,
+        "endMs": 1384770
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1384770,
+        "endMs": 1653145
+      }
+    ]
+  },
+  {
+    "id": "2023-06-1",
+    "year": 2023,
+    "examYm": "2023-06",
+    "setNo": 1,
+    "title": "2023 年 6 月六级听力 · 第 1 套",
+    "fileName": "2023-06_set1.m4a",
+    "durationMs": 1652843,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 220600
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 220600,
+        "endMs": 473510
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 473510,
+        "endMs": 639930
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 639930,
+        "endMs": 912260
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 912260,
+        "endMs": 1149430
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1149430,
+        "endMs": 1379150
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1379150,
+        "endMs": 1652843
+      }
+    ]
+  },
+  {
+    "id": "2023-03-1",
+    "year": 2023,
+    "examYm": "2023-03",
+    "setNo": 1,
+    "title": "2023 年 3 月六级听力 · 第 1 套",
+    "fileName": "2023-03_set1.m4a",
+    "durationMs": 1575079,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 222820
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 222820,
+        "endMs": 457930
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 457930,
+        "endMs": 630630
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 630630,
+        "endMs": 843040
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 843040,
+        "endMs": 1077100
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1077100,
+        "endMs": 1340820
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1340820,
+        "endMs": 1575079
+      }
+    ]
+  },
+  {
+    "id": "2022-12-2",
+    "year": 2022,
+    "examYm": "2022-12",
+    "setNo": 2,
+    "title": "2022 年 12 月六级听力 · 第 2 套",
+    "fileName": "2022-12_set2.m4a",
+    "durationMs": 1586062,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 242770
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 242770,
+        "endMs": 461020
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 461020,
+        "endMs": 635540
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 635540,
+        "endMs": 867320
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 867320,
+        "endMs": 1100760
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1100760,
+        "endMs": 1327220
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1327220,
+        "endMs": 1586062
+      }
+    ]
+  },
+  {
+    "id": "2022-12-1",
+    "year": 2022,
+    "examYm": "2022-12",
+    "setNo": 1,
+    "title": "2022 年 12 月六级听力 · 第 1 套",
+    "fileName": "2022-12_set1.m4a",
+    "durationMs": 1635660,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 229790
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 229790,
+        "endMs": 462030
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 462030,
+        "endMs": 648690
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 648690,
+        "endMs": 880220
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 880220,
+        "endMs": 1146240
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1146240,
+        "endMs": 1365340
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1365340,
+        "endMs": 1635660
+      }
+    ]
+  },
+  {
+    "id": "2022-09-1",
+    "year": 2022,
+    "examYm": "2022-09",
+    "setNo": 1,
+    "title": "2022 年 9 月六级听力 · 第 1 套",
+    "fileName": "2022-09_set1.m4a",
+    "durationMs": 1633872,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 226580
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 226580,
+        "endMs": 477120
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 477120,
+        "endMs": 665930
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 665930,
+        "endMs": 897640
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 897640,
+        "endMs": 1140160
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1140160,
+        "endMs": 1373630
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1373630,
+        "endMs": 1633872
+      }
+    ]
+  },
+  {
+    "id": "2022-06-1",
+    "year": 2022,
+    "examYm": "2022-06",
+    "setNo": 1,
+    "title": "2022 年 6 月六级听力 · 第 1 套",
+    "fileName": "2022-06_set1.m4a",
+    "durationMs": 1707944,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 263870
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 263870,
+        "endMs": 513660
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 513660,
+        "endMs": 711090
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 711090,
+        "endMs": 948000
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 948000,
+        "endMs": 1196490
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1196490,
+        "endMs": 1448570
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1448570,
+        "endMs": 1707944
+      }
+    ]
+  },
+  {
+    "id": "2021-12-2",
+    "year": 2021,
+    "examYm": "2021-12",
+    "setNo": 2,
+    "title": "2021 年 12 月六级听力 · 第 2 套",
+    "fileName": "2021-12_set2.m4a",
+    "durationMs": 1617618,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 247540
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 247540,
+        "endMs": 481490
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 481490,
+        "endMs": 658090
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 658090,
+        "endMs": 879060
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 879060,
+        "endMs": 1098550
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1098550,
+        "endMs": 1329820
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1329820,
+        "endMs": 1617618
+      }
+    ]
+  },
+  {
+    "id": "2021-12-1",
+    "year": 2021,
+    "examYm": "2021-12",
+    "setNo": 1,
+    "title": "2021 年 12 月六级听力 · 第 1 套",
+    "fileName": "2021-12_set1.m4a",
+    "durationMs": 1576124,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 210150
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 210150,
+        "endMs": 455600
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 455600,
+        "endMs": 626380
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 626380,
+        "endMs": 842050
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 842050,
+        "endMs": 1087990
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1087990,
+        "endMs": 1321520
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1321520,
+        "endMs": 1576124
+      }
+    ]
+  },
+  {
+    "id": "2021-06-2",
+    "year": 2021,
+    "examYm": "2021-06",
+    "setNo": 2,
+    "title": "2021 年 6 月六级听力 · 第 2 套",
+    "fileName": "2021-06_set2.m4a",
+    "durationMs": 1702185,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 256940
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 256940,
+        "endMs": 504110
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 504110,
+        "endMs": 673350
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 673350,
+        "endMs": 923330
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 923330,
+        "endMs": 1185410
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1185410,
+        "endMs": 1421200
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1421200,
+        "endMs": 1702185
+      }
+    ]
+  },
+  {
+    "id": "2021-06-1",
+    "year": 2021,
+    "examYm": "2021-06",
+    "setNo": 1,
+    "title": "2021 年 6 月六级听力 · 第 1 套",
+    "fileName": "2021-06_set1.m4a",
+    "durationMs": 1690180,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 240780
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 240780,
+        "endMs": 477220
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 477220,
+        "endMs": 671280
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 671280,
+        "endMs": 901800
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 901800,
+        "endMs": 1156940
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1156940,
+        "endMs": 1408560
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1408560,
+        "endMs": 1690180
+      }
+    ]
+  },
+  {
+    "id": "2020-12-2",
+    "year": 2020,
+    "examYm": "2020-12",
+    "setNo": 2,
+    "title": "2020 年 12 月六级听力 · 第 2 套",
+    "fileName": "2020-12_set2.m4a",
+    "durationMs": 1600250,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 240220
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 240220,
+        "endMs": 478120
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 478120,
+        "endMs": 648410
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 648410,
+        "endMs": 875000
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 875000,
+        "endMs": 1122640
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1122640,
+        "endMs": 1333780
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1333780,
+        "endMs": 1600250
+      }
+    ]
+  },
+  {
+    "id": "2020-12-1",
+    "year": 2020,
+    "examYm": "2020-12",
+    "setNo": 1,
+    "title": "2020 年 12 月六级听力 · 第 1 套",
+    "fileName": "2020-12_set1.m4a",
+    "durationMs": 1540551,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 226820
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 226820,
+        "endMs": 455460
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 455460,
+        "endMs": 624700
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 624700,
+        "endMs": 823360
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 823360,
+        "endMs": 1062780
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1062780,
+        "endMs": 1286630
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1286630,
+        "endMs": 1540551
+      }
+    ]
+  },
+  {
+    "id": "2020-09-1",
+    "year": 2020,
+    "examYm": "2020-09",
+    "setNo": 1,
+    "title": "2020 年 9 月六级听力 · 第 1 套",
+    "fileName": "2020-09_set1.m4a",
+    "durationMs": 1576101,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 222510
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 222510,
+        "endMs": 459330
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 459330,
+        "endMs": 634360
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 634360,
+        "endMs": 854060
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 854060,
+        "endMs": 1077500
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1077500,
+        "endMs": 1313830
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1313830,
+        "endMs": 1576101
+      }
+    ]
+  },
+  {
+    "id": "2020-07-1",
+    "year": 2020,
+    "examYm": "2020-07",
+    "setNo": 1,
+    "title": "2020 年 7 月六级听力 · 第 1 套",
+    "fileName": "2020-07_set1.m4a",
+    "durationMs": 1612231,
+    "sections": [
+      {
+        "title": "长对话 1",
+        "questions": "Q1–4",
+        "startMs": 0,
+        "endMs": 231920
+      },
+      {
+        "title": "长对话 2",
+        "questions": "Q5–8",
+        "startMs": 231920,
+        "endMs": 470660
+      },
+      {
+        "title": "听力篇章 1",
+        "questions": "Q9–11",
+        "startMs": 470660,
+        "endMs": 653420
+      },
+      {
+        "title": "听力篇章 2",
+        "questions": "Q12–15",
+        "startMs": 653420,
+        "endMs": 879620
+      },
+      {
+        "title": "讲座 / 讲话 1",
+        "questions": "Q16–18",
+        "startMs": 879620,
+        "endMs": 1125200
+      },
+      {
+        "title": "讲座 / 讲话 2",
+        "questions": "Q19–21",
+        "startMs": 1125200,
+        "endMs": 1364830
+      },
+      {
+        "title": "讲座 / 讲话 3",
+        "questions": "Q22–25",
+        "startMs": 1364830,
+        "endMs": 1612231
+      }
+    ]
+  }
+]

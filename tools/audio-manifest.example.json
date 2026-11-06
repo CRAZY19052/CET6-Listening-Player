@@ -1,0 +1,25 @@
+{
+  "generated_at": "YYYY-MM-DDTHH:MM:SS+08:00",
+  "rights_status": "LICENSED_OR_SELF_AUTHORED",
+  "count": 2,
+  "entries": [
+    {
+      "id": "sample-1",
+      "exam_ym": "2026-06",
+      "set_no": 1,
+      "title": "2026-06 CET-6 听力第1套",
+      "output_path": "C:/path/to/2026-06_set1.m4a",
+      "measured_duration": 1600.0,
+      "status": "ok"
+    },
+    {
+      "id": "sample-2",
+      "exam_ym": "2026-06",
+      "set_no": 2,
+      "title": "2026-06 CET-6 听力第2套",
+      "output_path": "C:/path/to/2026-06_set2.m4a",
+      "measured_duration": 1588.0,
+      "status": "ok"
+    }
+  ]
+}

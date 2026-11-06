@@ -1,0 +1,21 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.apk
+
+# Private learning media; never commit unless redistribution rights are clear
+app/src/main/assets/audio/*
+!app/src/main/assets/audio/.gitkeep
+
+# Local research and generated work products
+work/
+outputs/
+
+# IDE and OS noise
+.idea/
+*.iml
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CET6 听力舱</string>
+    <string name="playback_channel_name">听力播放</string>
+</resources>
