@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
     private var controllerFuture: ListenableFuture<MediaController>? = null
     private var controller: MediaController? = null
     private var pendingItem: ListeningItem? = null
+    private var pendingSeekToMs: Long? = null
     private var showingPlayer = false
     private var activeFilterYear: Int? = null
 
@@ -143,7 +144,9 @@ class MainActivity : AppCompatActivity() {
                 connected.addListener(controllerListener)
                 pendingItem?.let {
                     pendingItem = null
-                    startItem(it)
+                    val seekToMs = pendingSeekToMs
+                    pendingSeekToMs = null
+                    startItem(it, seekToMs)
                 }
             },
             ContextCompat.getMainExecutor(this)
@@ -454,9 +457,6 @@ class MainActivity : AppCompatActivity() {
             gravity = Gravity.CENTER
             setPadding(0, dp(18), 0, dp(8))
         }
-        mainControls.addView(controlButton("−15", compact = true).apply {
-            setOnClickListener { skipBy(-15_000L) }
-        })
         playerPlayButton = controlButton("▶", compact = false).apply {
             setOnClickListener {
                 val c = controller ?: return@setOnClickListener
@@ -468,14 +468,34 @@ class MainActivity : AppCompatActivity() {
                 updatePlayerButton()
             }
         }
-        mainControls.addView(playerPlayButton, LinearLayout.LayoutParams(dp(82), dp(82)).apply {
-            marginStart = dp(26)
-            marginEnd = dp(26)
-        })
-        mainControls.addView(controlButton("+15", compact = true).apply {
-            setOnClickListener { skipBy(15_000L) }
-        })
+        mainControls.addView(playerPlayButton, LinearLayout.LayoutParams(dp(82), dp(82)))
         playerContent.addView(mainControls)
+
+        playerContent.addView(
+            text("精细调节", 10.5f, ColorUtils.blendARGB(Color.WHITE, INK, 0.42f), Typeface.BOLD).apply {
+                setPadding(0, dp(10), 0, dp(7))
+            }
+        )
+        val preciseControls = LinearLayout(this).apply {
+            orientation = LinearLayout.HORIZONTAL
+            gravity = Gravity.CENTER
+        }
+        listOf(
+            "后退 5 秒" to -5_000L,
+            "后退 15 秒" to -15_000L,
+            "前进 3 秒" to 3_000L
+        ).forEachIndexed { index, (label, deltaMs) ->
+            val button = text(label, 11.5f, Color.WHITE, Typeface.BOLD).apply {
+                gravity = Gravity.CENTER
+                background = rounded(ColorUtils.blendARGB(Color.WHITE, INK, 0.80f), dp(14))
+                setOnClickListener { skipBy(deltaMs) }
+            }
+            val params = LinearLayout.LayoutParams(0, dp(42), 1f)
+            params.marginStart = dp(if (index == 0) 0 else 4)
+            params.marginEnd = dp(if (index == 2) 0 else 4)
+            preciseControls.addView(button, params)
+        }
+        playerContent.addView(preciseControls, linearParams(matchWidth = true))
 
         val speedRow = LinearLayout(this).apply {
             orientation = LinearLayout.HORIZONTAL
@@ -548,11 +568,13 @@ class MainActivity : AppCompatActivity() {
         val c = controller
         if (c == null) {
             pendingItem = item
+            pendingSeekToMs = seekToMs
             connectController()
             return
         }
         val alreadySelected = c.currentMediaItem?.mediaId == item.id
         if (!alreadySelected) {
+            val resume = resumePositionFor(item)
             val mediaItem = MediaItem.Builder()
                 .setMediaId(item.id)
                 .setUri("asset:///audio/${item.fileName}")
@@ -563,12 +585,11 @@ class MainActivity : AppCompatActivity() {
                         .build()
                 )
                 .build()
-            c.setMediaItem(mediaItem)
+            c.setMediaItem(mediaItem, resume)
             c.prepare()
-            val saved = stats.lastPositionMs(item.id)
-            val resume = if (saved >= item.durationMs - 4_000L) 0L else saved
-            c.seekTo(resume)
             c.setPlaybackSpeed(stats.playbackSpeed())
+        } else if (seekToMs == null && c.playbackState == Player.STATE_ENDED) {
+            c.seekTo(resumePositionFor(item))
         }
         if (seekToMs != null) {
             c.seekTo(seekToMs.coerceIn(0L, item.durationMs.coerceAtLeast(1L)))
@@ -576,6 +597,12 @@ class MainActivity : AppCompatActivity() {
         c.play()
         stats.setRecent(item.id)
         updatePlayerButton()
+    }
+
+    private fun resumePositionFor(item: ListeningItem): Long {
+        val saved = stats.lastPositionMs(item.id)
+        if (saved <= 0L || saved >= item.durationMs - RESUME_END_GUARD_MS) return 0L
+        return saved.coerceAtMost(item.durationMs.coerceAtLeast(1L))
     }
 
     private fun updatePlayerUi() {
@@ -739,6 +766,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
+        private const val RESUME_END_GUARD_MS = 4_000L
         private val PAPER = Color.rgb(244, 240, 231)
         private val PAPER_DARK = Color.rgb(229, 224, 213)
         private val INK = Color.rgb(23, 36, 31)

@@ -45,6 +45,23 @@ class PlaybackService : MediaSessionService() {
         override fun onIsPlayingChanged(isPlaying: Boolean) {
             lastPositionMs = player.currentPosition.coerceAtLeast(0L)
             lastWallClockMs = if (isPlaying) SystemClock.elapsedRealtime() else 0L
+            if (!isPlaying) {
+                currentItemId()?.let { stats.setLastPositionMs(it, lastPositionMs) }
+            }
+        }
+
+        override fun onPositionDiscontinuity(
+            oldPosition: Player.PositionInfo,
+            newPosition: Player.PositionInfo,
+            reason: Int
+        ) {
+            if (reason != Player.DISCONTINUITY_REASON_SEEK) return
+            lastPositionMs = newPosition.positionMs.coerceAtLeast(0L)
+            lastWallClockMs = if (player.isPlaying) SystemClock.elapsedRealtime() else 0L
+            currentItemId()?.let { itemId ->
+                itemsById[itemId]?.let { resetSession(it, lastPositionMs) }
+                stats.setLastPositionMs(itemId, lastPositionMs)
+            }
         }
 
         override fun onPlaybackStateChanged(playbackState: Int) {
